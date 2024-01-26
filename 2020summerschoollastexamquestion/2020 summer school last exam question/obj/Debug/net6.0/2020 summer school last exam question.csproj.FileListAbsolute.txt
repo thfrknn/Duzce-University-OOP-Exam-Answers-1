@@ -1,0 +1,28 @@
+C:\Users\TAHA FURKAN\Desktop\Subjects\NDP\git pushlanacaklar\2020 summer school last exam question\2020 summer school last exam question\bin\Debug\net6.0\2020 summer school last exam question.exe
+C:\Users\TAHA FURKAN\Desktop\Subjects\NDP\git pushlanacaklar\2020 summer school last exam question\2020 summer school last exam question\bin\Debug\net6.0\2020 summer school last exam question.deps.json
+C:\Users\TAHA FURKAN\Desktop\Subjects\NDP\git pushlanacaklar\2020 summer school last exam question\2020 summer school last exam question\bin\Debug\net6.0\2020 summer school last exam question.runtimeconfig.json
+C:\Users\TAHA FURKAN\Desktop\Subjects\NDP\git pushlanacaklar\2020 summer school last exam question\2020 summer school last exam question\bin\Debug\net6.0\2020 summer school last exam question.dll
+C:\Users\TAHA FURKAN\Desktop\Subjects\NDP\git pushlanacaklar\2020 summer school last exam question\2020 summer school last exam question\bin\Debug\net6.0\2020 summer school last exam question.pdb
+C:\Users\TAHA FURKAN\Desktop\Subjects\NDP\git pushlanacaklar\2020 summer school last exam question\2020 summer school last exam question\obj\Debug\net6.0\2020 summer school last exam question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAHA FURKAN\Desktop\Subjects\NDP\git pushlanacaklar\2020 summer school last exam question\2020 summer school last exam question\obj\Debug\net6.0\2020 summer school last exam question.AssemblyInfoInputs.cache
+C:\Users\TAHA FURKAN\Desktop\Subjects\NDP\git pushlanacaklar\2020 summer school last exam question\2020 summer school last exam question\obj\Debug\net6.0\2020 summer school last exam question.AssemblyInfo.cs
+C:\Users\TAHA FURKAN\Desktop\Subjects\NDP\git pushlanacaklar\2020 summer school last exam question\2020 summer school last exam question\obj\Debug\net6.0\2020 summer school last exam question.csproj.CoreCompileInputs.cache
+C:\Users\TAHA FURKAN\Desktop\Subjects\NDP\git pushlanacaklar\2020 summer school last exam question\2020 summer school last exam question\obj\Debug\net6.0\2020 summer school last exam question.dll
+C:\Users\TAHA FURKAN\Desktop\Subjects\NDP\git pushlanacaklar\2020 summer school last exam question\2020 summer school last exam question\obj\Debug\net6.0\refint\2020 summer school last exam question.dll
+C:\Users\TAHA FURKAN\Desktop\Subjects\NDP\git pushlanacaklar\2020 summer school last exam question\2020 summer school last exam question\obj\Debug\net6.0\2020 summer school last exam question.pdb
+C:\Users\TAHA FURKAN\Desktop\Subjects\NDP\git pushlanacaklar\2020 summer school last exam question\2020 summer school last exam question\obj\Debug\net6.0\2020 summer school last exam question.genruntimeconfig.cache
+C:\Users\TAHA FURKAN\Desktop\Subjects\NDP\git pushlanacaklar\2020 summer school last exam question\2020 summer school last exam question\obj\Debug\net6.0\ref\2020 summer school last exam question.dll
+D:\git push\2020 summer school last exam question\2020 summer school last exam question\bin\Debug\net6.0\2020 summer school last exam question.exe
+D:\git push\2020 summer school last exam question\2020 summer school last exam question\bin\Debug\net6.0\2020 summer school last exam question.deps.json
+D:\git push\2020 summer school last exam question\2020 summer school last exam question\bin\Debug\net6.0\2020 summer school last exam question.runtimeconfig.json
+D:\git push\2020 summer school last exam question\2020 summer school last exam question\bin\Debug\net6.0\2020 summer school last exam question.dll
+D:\git push\2020 summer school last exam question\2020 summer school last exam question\bin\Debug\net6.0\2020 summer school last exam question.pdb
+D:\git push\2020 summer school last exam question\2020 summer school last exam question\obj\Debug\net6.0\2020 summer school last exam question.GeneratedMSBuildEditorConfig.editorconfig
+D:\git push\2020 summer school last exam question\2020 summer school last exam question\obj\Debug\net6.0\2020 summer school last exam question.AssemblyInfoInputs.cache
+D:\git push\2020 summer school last exam question\2020 summer school last exam question\obj\Debug\net6.0\2020 summer school last exam question.AssemblyInfo.cs
+D:\git push\2020 summer school last exam question\2020 summer school last exam question\obj\Debug\net6.0\2020 summer school last exam question.csproj.CoreCompileInputs.cache
+D:\git push\2020 summer school last exam question\2020 summer school last exam question\obj\Debug\net6.0\2020 summer school last exam question.dll
+D:\git push\2020 summer school last exam question\2020 summer school last exam question\obj\Debug\net6.0\refint\2020 summer school last exam question.dll
+D:\git push\2020 summer school last exam question\2020 summer school last exam question\obj\Debug\net6.0\2020 summer school last exam question.pdb
+D:\git push\2020 summer school last exam question\2020 summer school last exam question\obj\Debug\net6.0\2020 summer school last exam question.genruntimeconfig.cache
+D:\git push\2020 summer school last exam question\2020 summer school last exam question\obj\Debug\net6.0\ref\2020 summer school last exam question.dll
